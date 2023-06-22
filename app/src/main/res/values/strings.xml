@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Final_Project</string>
+    <string-array name="city">
+        <item>台北市</item>
+        <item>新北市</item>
+    </string-array>
+    <string-array name="Taipei">
+        <item>中山區</item>
+        <item>松山區</item>
+    </string-array>
+    <string-array name="NewTaipei">
+        <item>板橋區</item>
+        <item>林口區</item>
+    </string-array>
+    <string-array name="CS">
+        <item>台北長春國賓影城</item>
+        <item>欣欣秀泰影城</item>
+    </string-array>
+    <string-array name="SS">
+        <item>總督數位影城</item>
+        <item>台北微風國賓影城</item>
+    </string-array>
+    <string-array name="BC">
+        <item>板橋秀泰影城</item>
+        <item>威秀影城</item>
+    </string-array>
+    <string-array name="LC">
+        <item>三井威秀影廳</item>
+        <item>林口昕境國賓影城</item>
+    </string-array>
+    <string-array name="Movie">
+        <item>路卡的夏天</item>
+        <item>老師！你會不會談戀愛</item>
+        <item>黑寡婦</item>
+        <item>惡靈陷阱</item>
+        <item>怪物奇兵 全新世代</item>
+        <item>密弒遊戲2：勝者危亡</item>
+    </string-array>
+    <string-array name="date1">
+        <item>07/02</item>
+        <item>07/03</item>
+        <item>07/04</item>
+        <item>07/05</item>
+        <item>07/06</item>
+        <item>07/07</item>
+    </string-array>
+    <string-array name="date2">
+        <item>07/09</item>
+        <item>07/10</item>
+        <item>07/11</item>
+        <item>07/12</item>
+        <item>07/13</item>
+        <item>07/14</item>
+    </string-array>
+    <string-array name="date3">
+        <item>07/15</item>
+        <item>07/16</item>
+        <item>07/17</item>
+        <item>07/18</item>
+        <item>07/19</item>
+        <item>07/20</item>
+    </string-array>
+    <string-array name="time">
+        <item>9:30 AM</item>
+        <item>12:30 PM</item>
+        <item>15:30 PM</item>
+        <item>18:30 PM</item>
+        <item>21:30 PM</item>
+        <item>23:30 PM</item>
+        <item>1:30 AM</item>
+    </string-array>
+</resources>
